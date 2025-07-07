@@ -1,1 +1,1 @@
-#hello bhai trying to oush this file on my git repo.
+# hello bhai trying to push this file on my git repo.
